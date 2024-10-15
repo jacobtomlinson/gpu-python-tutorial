@@ -1,3 +1,7 @@
+> [!Important]
+> This tutorial has moved to the [NVIDIA Accelerated Computing Hub](https://github.com/NVIDIA/accelerated-computing-hub/tree/main/gpu-python-tutorial).
+> Please head there for the latest version of this material.
+
 # GPU development with Python 101 Tutorial
 
 **Welcome to the GPU Development in Python 101 tutorial.**
